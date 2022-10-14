@@ -5,6 +5,8 @@
 *		Create a program that can read in names from files and compare them to see if any are the same
 *  Modified 13 October 2022:
 *		Fixed issue where sorting algorithm sorted lists upside down
+*  Modified 14 October 2022:
+*		Added ability to compare a custom input by the user
 */
 
 #include <iostream>
