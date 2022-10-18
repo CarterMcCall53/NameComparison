@@ -7,6 +7,8 @@
 *		Fixed issue where sorting algorithm sorted lists upside down
 *  Modified 14 October 2022:
 *		Added ability to compare a custom input by the user
+*  Modified 18 October 2022:
+*		Changed colors and made a better interface
 */
 
 #include <iostream>
